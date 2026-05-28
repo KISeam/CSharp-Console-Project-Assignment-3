@@ -1,4 +1,4 @@
-# C-Console-Project-Assignment-3
+# CSharp-Console-Project-Assignment-3
 
 A simple C# console application developed using .NET 10.0.  
 This project demonstrates user input handling, data conversion, and console output using C#.
